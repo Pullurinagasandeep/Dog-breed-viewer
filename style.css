@@ -22,6 +22,8 @@ img{
 .container {
     width:92%;
     max-height: 90rem;
+    background-color:#8A8D91 ;
+    padding: 2rem;
 } 
 
 h1{
